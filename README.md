@@ -20,7 +20,7 @@
 } 
 ```  
 Пример как может выглядить одна директория или фаил  
-!(Example)[https://github.com/phygitalism/js-test-task-intern/exmpl.png]
+![Example](https://github.com/phygitalism/js-test-task-intern/exmpl.png)
 
 ## Плюс
 Наличие асинхронной функции получения json
